@@ -1,0 +1,7 @@
+INPUTS 5
+GATES 4
+
+G1 NAND(a,b)
+G2 OR(c,d)
+G3 AND(f,g)
+G4 NOR(h,e)
